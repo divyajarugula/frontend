@@ -1,2 +1,2 @@
 ### This is the README file of Calculator.
-- above is my first preoject.
+- above is my first project.
